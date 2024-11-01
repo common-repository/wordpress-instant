@@ -1,0 +1,29 @@
+.wpinstant-results {
+	overflow: hidden;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+	.wpinstant-results li {
+		border: 0;
+		border-top: 1px solid #ddd;
+		padding-top: 10px;
+		margin-top: 10px;
+	}
+	.wpinstant-results .pagenum {
+		border: 0;
+	}
+	.wpinstant-results .metainfo {
+		font-size: 11px;
+	}
+	.wpinstant-results .title {
+		margin: 0 !important;
+	}
+		.wpinstant-results .metainfo span {
+			margin-right: 15px;
+		}
+
+.wpinstant-load {
+	display: none;
+	margin: 10px 0 10px 0;
+}
